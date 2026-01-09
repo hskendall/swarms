@@ -36,3 +36,4 @@ swarm-models
 clusterops
 reportlab
 doc-master
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
